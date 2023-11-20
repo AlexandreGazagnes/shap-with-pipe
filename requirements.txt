@@ -11,19 +11,16 @@ jupyterlab
 IPython
 jupytext 
 ipykernel
-
+jupyter-contrib-nbextensions
 
 pytest
 black 
-
-# black = {extras = ["jupyter"], version = "^23.11.0"}
 black[jupyter]
 
-shap
 # pandarallel 
-
-jupyter-contrib-nbextensions
+# pyspark
 
 seaborn 
 matplotlib
 plotly
+shap
